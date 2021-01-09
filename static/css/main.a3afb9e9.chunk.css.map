@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/component/hoc/layout/layout.css"],"names":[],"mappings":"AAAA,KACI,QAAS,CACT,SAAU,CACV,kBAAmB,CACnB,+BACJ,CAEA,EACI,oBACJ","file":"main.a3afb9e9.chunk.css","sourcesContent":["body{\r\n    margin: 0;\r\n    padding: 0;\r\n    background: #ececec;\r\n    font-family: 'Roboto', sans-serif;\r\n}\r\n\r\na {\r\n    text-decoration: none;\r\n}"]}
