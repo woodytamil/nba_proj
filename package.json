@@ -1,6 +1,6 @@
 {
   "homepage": "http://woodytamil.github.io/nba_proj",
-  "name": "routeex",
+  "name": "nba_proj",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,5 +44,5 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  }
+  } 
 }
